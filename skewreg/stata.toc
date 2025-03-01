@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p skewreg Skewness regressions (regression) Use skewreg With STATA 18
