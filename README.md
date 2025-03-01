@@ -1,5 +1,5 @@
 # skewreg
-Skewness regressions (regression) Use skewreg With STATA 18
+Skewness and kurtosis regressions (regression) Use skewreg and kurtosisreg With STATA 18
 
 Olah Data Semarang
 
