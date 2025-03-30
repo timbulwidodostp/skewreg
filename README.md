@@ -1,6 +1,8 @@
 # skewreg
 Skewness and kurtosis regressions (regression) Use skewreg and kurtosisreg With STATA 18
 
+https://www.youtube.com/watch?v=wCj9gigr_ag
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
